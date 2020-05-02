@@ -1,5 +1,4 @@
-export const state = () => ({
-  studentObject: [
+studentObject: [
     {
       code: 'VlachM',
       name: 'Matt Vlach',
@@ -64,5 +63,5 @@ export const state = () => ({
       text:
             'I am a graphic and motion designer based in California that specializes in brand solutions through design and animation. My passion lies in exploring the psychology of design and how it influences thinking and behavior. I have a focus centered around the incorporation of design within meaningful and intentional brand strategies that effectively connect businesses with their customers.'
     }
-  ]
-}
+]
+
