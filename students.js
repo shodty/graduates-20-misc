@@ -1,14 +1,14 @@
 studentObject: [
     {
-      code: 'VlachM',
-      name: 'Matt Vlach',
-      discipline: 'graphic',
-      tags: ['type-design', 'identity', 'publication', 'installation'],
-      images: 4,
-      ext: ['jpg', 'jpg', 'jpg', 'jpg'],
-      showWork: false,
-      fill: false,
-      text:
+      code: 'VlachM',               //name code for each student
+      name: 'Matt Vlach',           //full name as will be displayed on page
+      discipline: 'graphic',        //graphic, interior, photo
+      tags: ['type-design', 'identity', 'publication', 'installation'], //the tags they self-identified themselves as
+      images: 4,                    //how many total images they have submitted (not including their profile pic)
+      ext: ['jpg', 'jpg', 'jpg', 'jpg'], //the extensions for each of those images, in correct order VlachM1.jpg being the first extension listed
+      showWork: false,              //leave as is
+      fill: false,                  //leave as is
+      text:                         //their personal blurb they have submitted
                 'Matt Vlach is an Interdisciplinary Designer based in California & practicing across type, book, installation, and identity work. This site is temporary and a new site will be up Summer 2020. Feel free to contact for project inquiries: hi@mattvlach.co'
     },
     {
