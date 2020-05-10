@@ -214,6 +214,54 @@ studentObject: [
     text: 'Isabel is a color enthusiast and caffeine fueled designer moved by the strategy of joining intuition and logic visually. As a member of the immigrant experience, she realized how powerful empathy was in making effective communication when languages or cultures clashed. This inspired her to not only research a structured logical reason in the design process, but also emphasize that design is a human experience after all. And for that she believes the design process should be limitless and experimental in order to solve problems, regardless of what medium is used. Her current goal is to further develop her skillset on curiosity driven branding and packaging design.'
   },
   {
+    code: 'BowlesB',
+    name: 'Billy Bowles',
+    discipline: 'graphic',
+    tags: [
+      'visual design',
+      'typography',
+      'web design'
+    ],
+    links: {
+      website: 'billybag.wordpress.com',
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: 'Bishop Briggs',
+        description: 'Awesome professor who we had three semesters in a row. But even greater than that are the wonderful friends that i have made and had the privilege of sitting next to for the remainder of the four-semester program. i will never forget the first day sitting with Aaron, Christiano, and L. My Bishop Briggs layout was part of our magazine spread assignment. At the time, Bishop Briggs always wore tight bun/pigtails on her head and i thought cupcakes would be good, subtle imagery that called to that.'
+      },
+      {
+        title: 'American River Conservation',
+        description: 'This class was an omen to what was to come. Big projects. A lot of parts and pieces. The professor was a strong professor and a lot of his lecture has stuck with me in my design process. What is more great is this is the class where i really got close to two amazing people: Christine and Gabby. I also grew to know Rigo, another talented graphic designer. American River Conservation. ARC. Boy oh boy. Where do i even begin. The prompt was to create a fictional museum and all its branding.'
+      },
+      {
+        title: 'Hannibal',
+        description: 'A fun class and the one and only time i had the privilege of having the professor we had. Designing my Hannibal book was tedious and difficult, but one of the most pleasing things to see finished. i really hope to have it printed for real some day. i really enjoyed seeing the final product printed out. Professor always gave amazing feedback and i always felt like i was going forward with my designs and never felt like i was going backward.'
+      },
+      {
+        title: 'Twerkshop',
+        description: 'Another fun class with a familiar professor. Working with my fictional Twerkshop was a real blast.'
+      },
+      {
+        title: 'Poster Designs',
+        description: 'i loved the poster design projects because they were a bit closer to something i would enjoy doing for a career. They definitely can use tweaking.'
+      },
+      {
+        title: 'Photography',
+        description: 'Two negatives. One of the funnest classes and something i have never delved in prior. This was a black and white photography class where we had to take photos and develop them ourselves. it was this class that i met Leann who i ended up having classes with at University.'
+      },
+      {
+        title: 'Memorial Poster',
+        description: ''
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: 'Billy was an intelligent designer in the Monday/Wednesday cohort that used his life experiences to effectively push the boundaries of design. He liked web design, animals, horror films, The Cure, pizza, science, Shirley Temples, and warm sun. He was an excellent friend to all in the program and was always there when anyone needed something. His humor and often darker outlook on life kept conversation unexpected and enjoyable. He always offered genuine comments during class critiques and kept us endlessly laughing. He was an active member of GRIDS and always showed up to events. We will always honor and remember Billy. The following captions were taken directly from Billy\'s website he updated last December. Feel free to visit, as he has many more pieces to see.'
+  },
+  {
     code: 'CantorK',
     name: 'Kristen Cantor',
     discipline: 'interior',
@@ -508,6 +556,563 @@ studentObject: [
     showWork: false,
     fill: false,
     text: 'I have always been a visual person. Growing up I wanted to apply my artistic skills in an area of study where it would benefit a project and serve a purpose. Though I am unsure of what lies ahead in my future, I hope to continue to learn and bring the benefits of design with me.'
+  },
+  {
+    code: 'DiazC',
+    name: 'Cristiano Diaz',
+    discipline: 'graphic',
+    tags: [
+      'brand identity',
+      'lettering',
+      'photography',
+    ],
+    links: {
+      website: 'behance.net/cristiandi8acb',
+      instagram: '@the.typeguy',
+    },
+    images: 5,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg',],
+    projecttext: [
+      {
+        title: 'Untitled',
+        description: 'These are just a few out of the many trademarks I have designed for specific companies along with other possible design collateral.'
+      },
+      {
+        title: 'Untitled',
+        description: 'Remaking the illustration and book layout for Peter & Wendy on hardcover.'
+      },
+      {
+        title: 'Untitled',
+        description: 'The objective was to create a beautiful memorable trademark for the Sacramento Museum of Jazz and creating collateral for the musically historic brand. '
+      },
+      {
+        title: 'Untitled',
+        description: 'Cypher Circle is a Community hub or Hip-Hop enthu-siast’s that brings people together to experience a cultural understanding of what the Hip-Hop culture is really about in Sacramento through dance and art.'
+      },
+      {
+        title: 'Untitled',
+        description: 'This was a conceptual poster project for different musical artists and each poster having their own unique look n’ feel.'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: 'Graphic Designer with a couple years of experience seek-ing for a compelling position where my creative skills are challenged. I’m currently a graphic design graduate who earned a B.F.A in Graphic Design at Sac State. I’m seeking a position in a creative team where I can apply my knowl-edge of diverse design skill set and graphic arts.'
+  },
+  {
+    code: 'DonatoM',
+    name: 'Mariana Donato Esparza',
+    discipline: 'interior',
+    tags: [
+      'interior design',
+      'interior architecture'
+    ],
+    links: {
+      linkedin: 'www.linkedin.com/in/mariana-donato-761484175'
+    },
+    images: 5,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: 'A House on the Garden Highway',
+        description: 'A house was to be developed on the levee sitting on stilts to have the flooding space cleared below. The design is composed of three floors which they are all connected by a triple height space.'
+      },
+      {
+        title: 'Adobe Spark Headquarters',
+        description: 'The project was to redesign the featured wall, reception area and the stairs of Adobe Spark. Adobe Sparks is used to tell stories, my story is illustrated by the moon demonstrating time, change and development.'
+      },
+      {
+        title: 'Pavilion on the Lake',
+        description: 'Pavilion was designed to utilize rhino along with grasshopper. My pavilion is located on a lake that allows a lot of people to walk through it and up the stairs to get a whole new view of the scenery.'
+      },
+      {
+        title: 'Urban Wetland, Adapt and Reuse Building',
+        description: 'Adapt and reuse an existing building based on the AIA framework for excellence, incorporating the COTE top ten measures to create a net zero sustainable design building. '
+      },
+      {
+        title: 'Urban Wetland, Adapt and Reuse Building',
+        description: 'Adapt and reuse an existing building based on the AIA framework for excellence, incorporating the COTE top ten measures to create a net zero sustainable design building. '
+      }
+    ],
+    showWork: false,
+    fill: false,
+    text: 'Mariana Donato, graduated from San Joaquin Delta College with an AA in Interior Design. Graduating student from Sacramento State University with a BFA in Interior Architecture. Interested in art, nature and design. Passionate about architecture and interior design with a desire to make my mark in the Interior Design field.'
+  },
+  {
+    code: 'DuarteL',
+    name: 'L Duarte',
+    discipline: 'graphic',
+    tags: [
+      'concepting',
+      'visual design',
+      'typography',
+      'editorial design'
+    ],
+    links: {
+      website: 'letterl.design',
+      instagram: '@l_i.r.l'
+    },
+    images: 4,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: 'Project 1',
+        description: 'Dracula book design project experimenting with glitch design. The concept was taking a traditional gothic book and applying a futuristic glitch design to juxtapose the meanings and find harmony between them.'
+      },
+      {
+        title: 'Project 2',
+        description: 'Skateboard deck designs. Left two designs took inspiration from 80’s and utilized an original typeface. Right two explored two different types of glitch design.'
+      },
+      {
+        title: 'Project 3',
+        description: 'The Department of Design Spring Show is an annual exhibition held at Sac State which gives a platform to show the best work from graduating seniors as well as other students from the programs of Graphic Design, Interior Architecture, and Photography. The design collateral is representative of the various dimensions of design that are shown and creates an atmosphere for it to be seen. Shown is the front and back of the event poster.'
+      },
+      {
+        title: 'Project 4',
+        description: 'Soft Kill centerfold editorial design spread. Interview sample utilized from ‘Cvlt Nation’ paired with original atmospheric photography.'
+      }
+    ],
+    showWork: false,
+    fill: false,
+    text: 'I\'m a designer with purpose bringing my diverse experiences to the world. I utilize a range of skills that combine traditional design principles with innovative experimental practices in an effort to captivate the audience. I enjoy pushing the limitations of design to continue learning and find unique ways of communication. I plan to expanding upon this in graduate school in Fall 2021. Feel free to visit my website to view all of my work.'
+  },
+  {
+    code: 'EdelmanC',
+    name: 'Caine Edelman',
+    discipline: 'photo',
+    tags: [
+      'film photography'
+    ],
+    links: {
+      website: 'caineedelman.com '
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: 'Bodega Bay',
+        description: 'These first three photographs come from my senior thesis project; Bodega Bay. Bodega Bay has held a very special place in my heart ever since I was a young child. Taking trips with my grandparents to their beach house were some of my fondest memories of my childhood. I chose to revisit this space to reflect on those memories. From the beaches, to the cow fields, to the house that I have come to know so well, I am now reflecting on how I experienced these places as a kid.'
+      },
+      {
+        title: 'Bodega Bay',
+        description: 'These first three photographs come from my senior thesis project; Bodega Bay. Bodega Bay has held a very special place in my heart ever since I was a young child. Taking trips with my grandparents to their beach house were some of my fondest memories of my childhood. I chose to revisit this space to reflect on those memories. From the beaches, to the cow fields, to the house that I have come to know so well, I am now reflecting on how I experienced these places as a kid.'
+      },
+      {
+        title: 'Bodega Bay',
+        description: 'These first three photographs come from my senior thesis project; Bodega Bay. Bodega Bay has held a very special place in my heart ever since I was a young child. Taking trips with my grandparents to their beach house were some of my fondest memories of my childhood. I chose to revisit this space to reflect on those memories. From the beaches, to the cow fields, to the house that I have come to know so well, I am now reflecting on how I experienced these places as a kid.'
+      },
+      {
+        title: 'Bodies',
+        description: 'Bodies is an ongoing project that I unknowingly started in 2015. The photographs within Bodies have all been shot on 35mm point and shoot cameras. Bodies is a photographic memoir of my early adult years showcasing my friendships, romance, and memories I will never take back.'
+      },
+      {
+        title: 'Bodies',
+        description: 'Bodies is an ongoing project that I unknowingly started in 2015. The photographs within Bodies have all been shot on 35mm point and shoot cameras. Bodies is a photographic memoir of my early adult years showcasing my friendships, romance, and memories I will never take back.'
+      },
+      {
+        title: 'Selective Site',
+        description: 'In the fall of 2019, I was assigned to photograph a stretch of the Sacramento River on Old River Road. In Selective Site, I photographed in both day and night to show the duality of how the time of day plays into how we see the world around us.'
+      },
+      {
+        title: 'Selective Site',
+        description: 'In the fall of 2019, I was assigned to photograph a stretch of the Sacramento River on Old River Road. In Selective Site, I photographed in both day and night to show the duality of how the time of day plays into how we see the world around us.'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: 'Caine Edelman is a photographer from the Bay Area. Taking film photography courses in high school and community college led Caine to further study photography at Sacramento State University.'
+  },
+  {
+    code: 'EngstromS',
+    name: 'Sienna Engstrom',
+    discipline: 'graphic',
+    tags: [
+      'print design',
+      'packaging',
+      'branding',
+      'copywriting',
+      'illustration'
+    ],
+    links: {
+      website: 'https://siennaengstrom.com ',
+      instagram: '@sienna.lux.e'
+    },
+    images: 5,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: 'Spar Bar',
+        description: 'Spar Bar identity. Spar Bar is a women’s kickboxing gym (and bar!), focused on providing an inclusive space where women can become stronger without the pressure to look cute at the gym. After workout Spargarita, anyone?'
+      },
+      {
+        title: 'Golden Crafthouse Culture Cans',
+        description: 'Product design for Golden Crafthouse “Culture Cans” beer series. The 16oz series showcases the unique culture points of Sacramento.'
+      },
+      {
+        title: '2019 Festival of New American Music',
+        description: 'System for the 2019 Festival of New American Music. Imagery, color and type worked together to portray New American Music as a contemporary interpretation of classical music.'
+      },
+      {
+        title: 'Americana with Attitude',
+        description: 'One-color poster project for Americana musicians The Nickel Slots, 50 Watt Heavy and Mike Blanchard and the Californios. The concept was centered around presenting Sacramento’s version of Americana.'
+      },
+      {
+        title: 'Valley of the Dolls',
+        description: 'Book design for Jacqueline Susann’s Valley of the Dolls. The solution concentrates on bringing the book to today’s market, focusing on the drug-induced fall of the books three female characters.'
+      }
+    ],
+    showWork: false,
+    fill: false,
+    text: 'Feelings and emotion are at the core of good design. With each project I take on, there is emotion that I hope to convey in the work. With each brief I ask what is this trying to say? What does it want the viewer to experience? Good design should serve a purpose, represent and resonate with the viewer, and maybe even provoke them or pull at their heartstrings. Designers have to think outside of their own experiences, and be open to experimentation. '
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
+  },
+  {
+    code: '___FOLDER_CODE___',
+    name: '___NAME___',
+    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    tags: [
+      '__TAG__',
+    ],
+    links: {
+      website: '__WEBSITE__',
+      instagram: '__INSTAGRAM__',
+      twitter: '__TWITTER__',
+      linkedin: '__LINKEDIN__'
+    },
+    images: 7,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: [
+      {
+        title: '__TITLE__',
+        description: '__DESC__'
+      },
+    ],
+    showWork: false,
+    fill: false,
+    text: '__BLURB___'
   },
   {
     code: 'MartinezG',
