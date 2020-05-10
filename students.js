@@ -254,8 +254,8 @@ studentObject: [
       },
       {
         title: 'Memorial Poster',
-        description: ''
-      },
+        description: null
+      }
     ],
     showWork: false,
     fill: false,
@@ -411,7 +411,6 @@ studentObject: [
         title: 'Alice’s Adventure in Wonderland',
         description: 'The book design for Alice in Wonderland aims to translate the Alice’s journey and adventure.'
       }
-
     ],
     showWork: false,
     fill: false,
@@ -458,7 +457,6 @@ studentObject: [
         title: 'Festival of the Arts ',
         description: 'Festival of the Arts celebrates the diverse community, talent, and growth of Sacramento State Universities’ Arts and Letters Department. '
       }
-
     ],
     showWork: false,
     fill: false,
@@ -592,7 +590,7 @@ studentObject: [
       {
         title: 'Untitled',
         description: 'This was a conceptual poster project for different musical artists and each poster having their own unique look n’ feel.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -715,7 +713,7 @@ studentObject: [
       {
         title: 'Selective Site',
         description: 'In the fall of 2019, I was assigned to photograph a stretch of the Sacramento River on Old River Road. In Selective Site, I photographed in both day and night to show the duality of how the time of day plays into how we see the world around us.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -765,354 +763,587 @@ studentObject: [
     text: 'Feelings and emotion are at the core of good design. With each project I take on, there is emotion that I hope to convey in the work. With each brief I ask what is this trying to say? What does it want the viewer to experience? Good design should serve a purpose, represent and resonate with the viewer, and maybe even provoke them or pull at their heartstrings. Designers have to think outside of their own experiences, and be open to experimentation. '
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
-    tags: [
-      '__TAG__',
-    ],
-    links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
-    },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
-    projecttext: [
-      {
-        title: '__TITLE__',
-        description: '__DESC__'
-      },
-    ],
+    code: 'GettyC',
+    name: 'Cameron Getty',
+    discipline: 'phogo',
+    tags: null,
+    links: null,
+    images: 5,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    projecttext: null,
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: null
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
-    tags: [
-      '__TAG__',
-    ],
-    links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
-    },
+    code: 'GilesK',
+    name: 'Kayla Giles',
+    discipline: 'interior',
+    tags: null,
+    links: null,
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Photo & Artwork',
+        description: null
       },
+      {
+        title: 'River House',
+        description: 'Students were given an empty lot along the Garden Highway in Sacramen-to, CA and expected to design a single family home that would not only house the family comfortably but took into account the site and annual flooding that takes place in the area. Students utilized case studies to collect information on flood resistant home design prior to the project develop-ment. Revit modeling and Enscape rendering programs were used to create and execute the design.'
+      },
+      {
+        title: 'Urban Cafe',
+        description: 'Students were asked to transform an early twentieth-century bank building into a cafe and causal restaurant. The design was required to have a variety of spaces including booths, counters, and individual tables as well as an outdoor dining area. The existing building was 110’ x 30’ and 20’ high from floor to ceiling allowing space for a mezzanine. Lastly, students were asked to include bathrooms, an elevator, staircases, and a kitchen.'
+      },
+      {
+        title: 'The Summit Pavilion',
+        description: 'Students were asked to design a pavilion with a specific site location in mind, in this case I chose a mountain top, a viewing platform and pavilion that would be used to enjoy the views and the outdoors.  To complete this project we used a combination of Rhino 3D modeling, Revit for 3D site layout, and Enscape to produce realistic renderings.  This project pushed students to explore and gain experience in  3D modeling programs and use these programs to enhance and fully develop their projects.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'My name is Kayla Giles and I am a senior at CSU Sacramento studying Interior Architecture.   I have a passion for all things creative with a focus in architecture and design.  I am inspired by the creation of  buildings, interior spaces and art that capture people’s attention allowing what once was boring to become places that can be used and appreciated for generations. Nature and the great outdoors is my biggest point of inspiration and I am passionate about sustainable design with a focus on the environment in all aspects of design and production.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'GomezP',
+    name: 'Patricia Gomez',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'illustration',
     ],
-    links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
-    },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    links: null,
+    images: 4,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Festival of New American Music(FeNAM)',
+        description: 'As an assignment for class, I designed two posters for the annual FeNAM. An abstract texture to express the complexity and depth that is new music. '
       },
+      {
+        title: 'Visiting Artist Calendar',
+        description: 'A calendar that lists a variety of exhibitions that will be shown at the Union Gallery. A floral design to acknowledge the spring season in which these took place and a experimentation with paint to reference artists.'
+      },
+      {
+        title: 'Book Design: The Iliad',
+        description: 'A school assignment that required the class to pick a book and design it. I chose a more modern approach with vibrant colors. I wanted to display movement all the while keeping a simplistic design with the title as the essential focus. '
+      },
+      {
+        title: 'Branding and UX: Ace of Clubs',
+        description: 'As an assignment for school I designed the branding for a golf club. When branding Ace of Clubs, I wanted the mark to embody a sophisticated style in accordance to the elegance and sportsmanship present in the sport. '
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'My name is Patricia Gomez, I am a senior in the graphic design program and I am currently an intern at The Lab. I will  be graduating this spring and intend to pursue a career in graphic design. '
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'GuptaR',
+    name: 'Rohan Gupta',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'branding',
+      'UI/UX',
+      'typography',
+      'layout',
+      'motion graphics',
+      'web design',
+      'logo design',
+      'packaging',
+      'environmental graphics',
+      'print production',
+      'photography',
+      'marketing'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'https://www.behance.net/rgsdesigns'
     },
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Wundrhaus Sacramento Branding',
+        description: 'Wundrhaus is an interactive mural art museum that provides hands-on learning experiences, classes, and educational opportunities for kids and adults. '
       },
+      {
+        title: 'SacVentures Branding',
+        description: 'Branding for a fictional hiking organization based in Sacramento, CA called SacVentures. The purpose of SacVentures is to provide an inclusive hiking experience and a welcoming environment for both hikers and non-hikers.'
+      },
+      {
+        title: 'The Invisible Man Book Design',
+        description: 'Book cover design for the novel Invisible Man. Use of warm and cool colors were explored to reflect setting of the book. Silhouette of man used across a cityscape to represent the Invisible Man himself.'
+      },
+      {
+        title: 'Identity Theft PSA Posters',
+        description: 'PSA Poster Designs describing the impact of Identity Theft on college students and how to prevent it. The use of black and yellow were used to signify caution and alert students to act now. '
+      },
+      {
+        title: 'Downtown Sacramento Herky Campus Branding',
+        description: 'Brand Identity project for the Downtown Sacramento Herky Campus set to open in the next few years. A simple and modern approach was taken for the identity, web design, and messaging to embrace the high-end nature of the mixed-use campus.'
+      },
+      {
+        title: 'Artist / Band Poster Designs',
+        description: 'Poster Designs for various artists and bands revolving around a specific musical genre. Use of color, photography and abstract patterns were explored to set the tone and describe the nature of their music.'
+      },
+      {
+        title: 'Logo Design Collection (2016-2020)',
+        description: 'A select collection of logos which I’ve created over the span of four years featuring both personal and academic projects for various clients.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'I am an open-minded and ambitious designer always looking to make a positive impact on the world. I enjoy working with people and strive to provide unique and creative solutions to problems and build long-lasting relationships.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
-    tags: [
-      '__TAG__',
-    ],
-    links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
-    },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    code: 'HaselmannG',
+    name: 'Grace Haselmann',
+    discipline: 'interior',
+    tags: null,
+    links: null,
+    images: 10,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'City Front Ascent',
+        description: null
       },
+      {
+        title: 'City Front Ascent',
+        description: null
+      },
+      {
+        title: 'Pavilion',
+        description: 'The project was to create Pavilion for a specific site of our choosing. While I primarily picture my pavilion on the roof of a hotel or apartment complex in the city, I also wanted it to be flexible. The primary goals of the pavilion are to bring green space into a city setting and to provide shade and rest for the community. '
+      },
+      {
+        title: 'Pavilion',
+        description: 'The project was to create Pavilion for a specific site of our choosing. While I primarily picture my pavilion on the roof of a hotel or apartment complex in the city, I also wanted it to be flexible. The primary goals of the pavilion are to bring green space into a city setting and to provide shade and rest for the community. '
+      },
+      {
+        title: 'Next Real Estate',
+        description: 'Next is a commercial real estate and project management firm located in downtown Denver Colorado. My Vison for the space was to create an atmosphere that really reflects both the adventurous meditative Colorado landscape and the artistic inner city. The space itself is 11,450 square feet between two levels. My design incorporates multiple different working environments ranging from cozy corners to airy collaborative spaces. Different navigation approaches throughout give the employees a sense of adventure when moving between these spaces.'
+      },
+      {
+        title: 'Next Real Estate',
+        description: 'Next is a commercial real estate and project management firm located in downtown Denver Colorado. My Vison for the space was to create an atmosphere that really reflects both the adventurous meditative Colorado landscape and the artistic inner city. The space itself is 11,450 square feet between two levels. My design incorporates multiple different working environments ranging from cozy corners to airy collaborative spaces. Different navigation approaches throughout give the employees a sense of adventure when moving between these spaces.'
+      },
+      {
+        title: 'Adobe Spark',
+        description: 'The assignment was to give a new adobe spark facility a lobby that was representative of the company. I centered my design around the conceptual notion that there are two sides to the human brain, the logical (science) left brain and the creative (art) right brain.  With this in mind I created a sculptural feature wall that depicts the convergence of these two “brains.” I also incorporated a neuron inspired wall pattern throughout my design. '
+      },
+      {
+        title: 'Adobe Spark',
+        description: 'The assignment was to give a new adobe spark facility a lobby that was representative of the company. I centered my design around the conceptual notion that there are two sides to the human brain, the logical (science) left brain and the creative (art) right brain.  With this in mind I created a sculptural feature wall that depicts the convergence of these two “brains.” I also incorporated a neuron inspired wall pattern throughout my design. '
+      },
+      {
+        title: 'Meier inspired House',
+        description: 'For this project we were asked to design a house using the popular design elements, rules, and organizational methods followed by American architect Richard Meier. My house, like Meier’s, follows a grid like system and has an obvious distinction between the public and private sides. A differentiating element within my house is the feature wall which acts as a light filtering partition and a bookshelf.  '
+      },
+      {
+        title: 'Garden Highway',
+        description: null
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: null
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'HuckA',
+    name: 'Ashley Huck',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'brand identity',
+      'page layout',
+      'publishing'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'https://www.ashleysdesigns.com',
+      linkedin: 'https://www.linkedin.com/in/ashley-huck-27776a160/',
+      blog: 'https://ashleyhuck.wixsite.com/mysite/blog'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 10,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Brochure',
+        description: 'A project from one of my classes that features black and white photography from Edward Weston. I featured a few of his images and made the brochure to include all the content in a structured way.'
       },
+      {
+        title: 'FeNAM Campaign ',
+        description: 'Designed two 16”x20” posters for The Festival of New American Music with one having just the title and the other having all the information on it. Then designed deliverables that work cohesively in a system.'
+      },
+      {
+        title: 'Musica Nuda Poster',
+        description: 'An independent poster project for a class assignment featuring Musica Nuda and further information about when and where they perform.'
+      },
+      {
+        title: 'IEPR Figures',
+        description: 'Had to redesign figures into a more modern branding for California State Energy Commission'
+      },
+      {
+        title: 'Aero Archery',
+        description: 'A branding project where I made a logo, stationary, and a website to fit within the branding system.'
+      },
+      {
+        title: 'Rituals of Mine',
+        description: 'An independent poster project for a class assignment featuring Rituals of Mine and information about when and where they perform.'
+      },
+      {
+        title: 'Optima Spread Sheet',
+        description: 'For a class project, I created the layout for the typeface optima. I used quotes, lists, picture, and paragraphs to generate a structured and cohesive layout.'
+      },
+      {
+        title: 'Fact Sheets: The Crystal Stopper',
+        description: 'Placed content into a fact sheet document and worked with making it accessible.'
+      },
+      {
+        title: 'The Crystal Stopper',
+        description: 'Made the book cover to The Crystal Stopper for a class project.'
+      },
+      {
+        title: 'Odesza Poster',
+        description: 'An independent poster project for a class assignment featuring Odesza and information about when and where they perform.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'As someone who is passionate art and technology, I pursued a career in graphic design to help with visual elements. My interests stem towards branding and layout design with a further interest in publishing. My goal is to use my skills in design to have my client\'s needs fulfilled and to be happy with the results of my work for them.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'HutchisonK',
+    name: 'Kailee Hutchison',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'visual design',
+      'photogrpahy',
+      'branding',
+      'layout',
+      'UX/UI'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'https://www.behance.net/kaileehutchison',
+      instagram: '@lil.k.lee',
+      linkedin: 'https://www.linkedin.com/in/kailee-hutchison-72599719b/'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 6,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Music Poster - Gary Clark Jr',
+        description: 'Type & image. Part of a series of musical posters, this piece focuses on the masterful guitar stylings of Gary Clark Jr who had a quality reminiscent of Jimi Hendrix.'
       },
+      {
+        title: 'Qi Gong Type Design',
+        description: 'Qi gong “life-energy cultivation" is an ancient Chinese art of controlled breathing and movement, thus the letter forms emphasize a rounded shape meant to mimic the circulation of this energy.'
+      },
+      {
+        title: 'West End Logotype Design',
+        description: 'The theme is derived from historic jazz clubs that were once prominent in Asian restaurants across the West end of Sacramento. The color pallet reflects the Chinese and Japanese heritage, while the typeface gives a distinct aura of jazz.'
+      },
+      {
+        title: 'Festival of New American Music Campaign',
+        description: 'Poster & filer. Part of a larger brand campaign, the shapes of light represent the visual sound and color of music. Largely a classical event, the dark background is reflective of the formality of a concert hall. '
+      },
+      {
+        title: 'Festival of New American Music Campaign',
+        description: 'Poster & filer. Part of a larger brand campaign, the shapes of light represent the visual sound and color of music. Largely a classical event, the dark background is reflective of the formality of a concert hall. '
+      },
+      {
+        title: 'Festival of New American Music Campaign',
+        description: 'Poster & filer. Part of a larger brand campaign, the shapes of light represent the visual sound and color of music. Largely a classical event, the dark background is reflective of the formality of a concert hall. '
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'Kailee Hutchison is a strategic graphic designer out of Northern California. Interested in UX + UI, branding & layout, her background in photography has fueled a passion for visual storytelling and finding aesthetic solutions for information design. After graduation Kailee aspires to transition into motion graphics. She will also continue to pursue her outdoor lifestyle through involvement in design projects for outdoor non-profits and digital media publications. '
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'HuynhT',
+    name: 'Timothy Huynh',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'visual identity',
+      'enivronmental design',
+      'publication design',
+      'marketing'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'morethanhdesigns.webflow.io',
+      instagram: '@morethanhdesigns'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 6,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Posters',
+        description: 'Concept posters for Rituals of Mine, Khalid, and Odesza. '
       },
+      {
+        title: 'Book',
+        description: 'Book design for The Girl with the Dragon Tattoo. The protagonist tries to solve a mystery of a forgotten murder that happened decades ago.'
+      },
+      {
+        title: 'Downtown Campus',
+        description: 'Revamping the Downtown Sacramento Herky Campus. A welcoming campus that includes a gym, shopping center, living spaces, and more.'
+      },
+      {
+        title: 'PSA',
+        description: 'PSA posters for Adderall. Adderall is a treatment for ADHD and narcolepsy, however it can often be associated with mistreatment from college students.'
+      },
+      {
+        title: 'Bonobo Boba',
+        description: 'Bonobo Boba is a boba shop that brings the community together through boba drinks and social interaction.'
+      },
+      {
+        title: 'FENAM',
+        description: 'The Festival of New American Music is an annual event held at Sac State. A variety of musicians perform over the course of a week and provide a variety of music.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'Design is made with a purpose much more meaningful than to be pretty. Having a very specific purpose while maintaining an appealing look is the solution I seek.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'KarchmitE',
+    name: 'Ernest Karchmit',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'identity',
+      'event branding',
+      'UI',
+      'type design',
+      'product photography',
+      'editorial photography'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'https://dribbble.com/ekarchmit',
+      instagram: '@the_kernest',
+      linkedin: 'https://www.linkedin.com/in/ernest-karchmit-3b58b5123'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 6,
+    ext: ['gif', 'gif', 'gif', 'gif', 'gif', 'gif'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Festival of the Arts',
+        description: 'Since 1992, the Festival of the Arts celebrates the diverse creative performances, exhibits, lectures and master classes, showcasing the region’s creative and cultural excellence. The Festival highlights what the students learn in their classes and continues that exploration, appreciation, expression, action and creativity outside the classroom and into their futures as alumni. Our goal was to design a series of collateral promoting the Festival of the Arts with an effective design system that will increase awareness of the event and college programs, increase attendance, fundraising, and support President Nelson’s university initiative. The design solution was derived from observing motion in the arts. From dance to the soundwaves of speech, a human expression. Contrasting the organic forms, a geometric logo was created to simplify the name, and the thin stroked shapes further complexity and define layout.'
       },
+      {
+        title: 'Gary Clark Jr — Gig Poster',
+        description: 'One in a series of gig posters, the poster inherits characteristics of the music and artist. It begins with large scale image from affar, a guitar, upside down… but as you near the poster you notice that the shape of the guitar was formed through the smoke of the train travelling through the piece, breaking the margin. The double image allows the viewer to engage with the poster, peering into the western, historical grit that Gary Clark Jr often sings about. This thought carries through the small details and texture.'
+      },
+      {
+        title: 'Downtown Commons',
+        description: 'Agency: Position Interactive Art Director: Kyle Marks Creative Director: Phil Tretheway Downtown Commons is located in the heart of downtown Sacramento. It is an entertainment, shopping, lifestyle destination that offers retailers, bars, restaurants, and placed directly with the Golden1 Center. We began by redesigning their advertisement collateral, from magazines, mailers, to the new directory brochure and an updated map guide. DOCO hosts several events throughout the summer months, but the Block Party was a hit to behold. Through hundreds of assets in banners, signs, social media graphics, barricades, programs, and advertisements. Did I mention Vanilla Ice was there?'
+      },
+      {
+        title: 'Dozo — Boxed Sushi',
+        description: 'Dozo is brand developed in partnership with George Nowack, Camille Carandang, and Marco Lopez. The brand was crafted through user research, business strategies, and assessing the competition. Collateral extends through more than 20 touchpoints including the website, and mobile app. The name Dōzo originates from the Japanese term for presenting or offering to others. This decision was formed based on Dōzo’s values in socialization, efficiency, and authenticity. It was important to develop a face for the brand that felt welcoming and memorable through a brief, easy to pronounce phrase for those living within the United States. Dōzo was selected under the impression that it would act as approachable name that could be easily shared among others through word of mouth.'
+      },
+      {
+        title: 'Herky',
+        description: 'Herky International strives to be an Anchor University, bringing people together. Building markets and communities while driving the future in the tech space. As a high tech, price establishment, Herky caters more closely to a wealthy crowd, middle to upper class adults, but also presents a stage for others such as students to gather and work. During the project we developed a website, redesigned the brand, created a wayfinding system and post/pre visit marketing strategies which includes email marketing, partnerships, web and social channels.'
+      },
+      {
+        title: 'Kernum — a typeface from the kernest',
+        description: 'Kernum is a unique heavy display face in development for use in bold impactful headlines, calling back the contrast of high end fashion serif fonts'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'Ernest is multi-disciplinary designer based in northern California, developing graphical and systematic brand solutions. He has worked with leading corporations from Enterprise to El Pollo Loco, Panera Bread, and Downtown Commons. Currently, Ernest works with a Sacramento design agency; Position Interactive, serving local and regional clients.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'LamosH',
+    name: 'Haley Lamos',
+    discipline: 'interior',
     tags: [
-      '__TAG__',
+      'commercial',
+      'residential',
+      'art installations'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'https://issuu.com/hlamos17/docs/spring_show_portfolio'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 8,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg','jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Pavillion',
+        description: 'Sacramento State University - Fall 2019 This project focused on the use of Rhino for it’s ability to create organic architecture. This Pavillion would sit tilting off an ocean cliff to allow the user to experience different levels of an ocean cliff. '
       },
+      {
+        title: 'Pavillion',
+        description: 'Sacramento State University - Fall 2019 This project focused on the use of Rhino for it’s ability to create organic architecture. This Pavillion would sit tilting off an ocean cliff to allow the user to experience different levels of an ocean cliff. '
+      },
+      {
+        title: 'Pavillion',
+        description: 'Sacramento State University - Fall 2019 This project focused on the use of Rhino for it’s ability to create organic architecture. This Pavillion would sit tilting off an ocean cliff to allow the user to experience different levels of an ocean cliff. '
+      },
+      {
+        title: 'Stilt House',
+        description: 'This project focused on design based on a house located in a flood plain. Designed for a 5 member family, in Sacramento Ca off the river. The entire house is floating on stilts to allow for the water levels to rise and fall, and allows for its occupants to enjoy the house in a variety of ways all year round.'
+      },
+      {
+        title: 'Stilt House',
+        description: 'This project focused on design based on a house located in a flood plain. Designed for a 5 member family, in Sacramento Ca off the river. The entire house is floating on stilts to allow for the water levels to rise and fall, and allows for its occupants to enjoy the house in a variety of ways all year round.'
+      },
+      {
+        title: 'Adobe Spark',
+        description: 'This project focused on desinging a lobby space for Adobe Spark in Roseville, Ca. The Client wanted to showcase their logo in the space as well as their signature yellow, as the main accent color. '
+      },
+      {
+        title: 'Adobe Spark',
+        description: 'This project focused on desinging a lobby space for Adobe Spark in Roseville, Ca. The Client wanted to showcase their logo in the space as well as their signature yellow, as the main accent color. '
+      },
+      {
+        title: 'Garage Facade',
+        description: 'Work Experience'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'My name is Haley Lamos, I am an 8 year student, finally acquiring my Bachelors of Fine Arts in Interior Architecture, from Sacramento State University. Throughout my studies I have transitioned from Fashion Design to Art History and finally arriving at Interior Architecture. I believe that through my work you can see my dedication and my ability to accomplish beautiful projects. My recent work includes an introduction to energy modeling and NZE design project, a residential project the Stilt House, Sacramento Ca, and a cliff hanging Pavillion. Creativity through building has always been part of me. Growing up my Dad and I would always build something, it didn’t matter what it was, I just knew that I could always go and create something big or small. Growing up in a creative hands-on environment has allowed me to understand our built environment in a logical and creative way. I consider myself a creative self starter, always inherently thinking of things a little differently than others. (There is more than one way to accomplish something!) I always strive to do my best and to always stay busy with something big or small. In the coming years I hope to be enrolled in a Masters program for Architecture, and eventually sit for my exams. I want to help support the integration of green and net zero design into the field so we can live harmoniously and push into the future with our environment and our future children in mind. This is a sample portfolio that includes select images from my best projects completed during my Interior Architecture progam.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'LopezM',
+    name: 'Marco Antonio Lopez',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'illustration',
+      'visual design',
+      'print'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      instagram: '@marco_the_creator'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 5,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Festival of the Arts',
+        description: 'For this project, I created a visual system based off the message intended to represent this event which was “Celebrate Humanity”. The color of the design embodied a fun/celebratory feeling while the idea of humanity being represented through the humanistic strokes and the finderprint located on each of the design pieces. '
       },
+      {
+        title: 'ASI Elections',
+        description: 'The purpose of this project was to create an inviting yet exciting experience for all Sacramento State students to vote within the ASI student body government elections. The groovy vibes of the elections system stemmed from group discussions among ASI design & marketing teams to create an energetically fun tone for the voting event that differentiated itself from the presidential primaries going on at the time. '
+      },
+      {
+        title: 'Gig Posters',
+        description: 'This series of posters focused on creating pieces of promotional material for a music events hosted here in Sacramento. In my process throughout the series, I mainly saw this as an opportunity to experiment on combining my passion for illustration with graphic design.'
+      },
+      {
+        title: 'PSA Posters',
+        description: 'The goal for this pair of posters was to create a design that not only grab our audiences attention but to also inform them on a particular issue facing college students. The focus for these posters revolved around the idea of sleep deprivation and the effects it has on a students mental & academic health.'
+      },
+      {
+        title: 'Comic Book Illustrations',
+        description: 'For my individual projects, I created two different illustrative pieces that are centered around the comic book genre. These pieces are focused heavily on digital art and are applied to different collateral like comic book covers and movie posters. (series still in progress)'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'Hi y’all, I am a graphic design student at Sacramento State University who focuses primarily on graphic design and digital illustration. I currently am working at Associated Students Inc. in the Union as a part time graphic designer and was a former GRIDS officer for the graphic design program at Sac State. Some fun facts about me: I am a huge comic book fan, I love music of all types (especially rock n’ roll) and I like to constantly exploring new ways on how to combine my illustrations with design.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'LouieA',
+    name: 'Aaron Louie',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'brand strategy',
+      'corporate design',
+      'creative direction'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'aaronlouiedesign.com',
+      instagram: '@aaronlouie',
+      linkedin: 'linkedin.com/in/aaron-louie'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 8,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Sacramento Kings Event Passes',
+        description: 'Experience passes used by the Sacramento Kings for their 2015-16 season. Functioned as a commemorative pass and a security pass.'
       },
+      {
+        title: 'CSUS Design Department Spring Show Concept',
+        description: 'A proposed concept for the 2020 Design Department Spring Show. Emphasis on the foundational principles in all design studies.'
+      },
+      {
+        title: 'Visit California’s California Plaza',
+        description: 'System application to multiple mediums from currency to large sand sculpture. Concept by Page Design Group, application by me.'
+      },
+      {
+        title: 'Micro Investing Poster Series',
+        description: 'Poster series encouraging college-age people to begin investing. Reminding them investing can be as little or as much money as you want.'
+      },
+      {
+        title: 'Masters of Photography Brochure',
+        description: 'Photograph brochure highlighting the achievements of Walker Evans. Designed a narrative experience as you unfold the brochure.'
+      },
+      {
+        title: 'Sacramento Buddhist Church Bazaar',
+        description: 'Poster series blending traditional Japanese ideas with vintage graphic styles to portray the idea of traditional Buddhist teachings with Millennial adaptation.'
+      },
+      {
+        title: 'California Surfing Day Surfboards',
+        description: 'Surfboards designed for photo ops to promote the inaugural California Surfing Day.'
+      },
+      {
+        title: 'Atrium at William Land Park',
+        description: 'Branding and system project for a tree museum in William Land Park. Letterhead, business card, and a seed box for native Californian flowers.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
+    text: 'I am an award winning designer from Sacramento, CA. I’ve worked with notable organizations in the region such as Visit California, the Sacramento Kings, and the Buddhist Church of Sacramento. Through my experience, I’ve gained insight on the values of business marketing and use it to guide the outcome of a project. With a strong foundation in corporate design, I carry the values of building and maintaining a strong brand that follows the core ideas and voice of the brand.'
   },
   {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
+    code: 'LuongK',
+    name: 'Kristy Luong',
+    discipline: 'graphic',
     tags: [
-      '__TAG__',
+      'editorial design',
+      'branding',
+      'environmental design',
+      'visual identity'
     ],
     links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
+      website: 'www.kristyluong.com',
+      linkedin: 'https://www.linkedin.com/in/kristyluong/'
     },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 6,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: '__TITLE__',
-        description: '__DESC__'
+        title: 'Modern Typeface Spread',
+        description: 'This design is dedicated to modern typefaces that highlight the characteristics in a serif. The layout provides a modern and elegant feel to a clean and classic nature that features a timeless typeface.'
       },
+      {
+        title: 'Gig Posters',
+        description: 'A series of gig posters each designed to target a specific audience. The look and feel change throughout each poster to capture and represent the sound of the artist and music genre.'
+      },
+      {
+        title: '2019 Festival of New American Music',
+        description: 'The Festival of New American Music focuses on capturing the audience with a campaign message of converging music and people during an annual event. Exploring all aspects of how people interact through the art of music gave this campaign a foundation to the narrative which translated to my designs.'
+      },
+      {
+        title: 'Herky Downtown',
+        description: 'Herky International(HI) provided a RPF seeking consulting services from qualified firms to provide professional user experience consulting services for a mixed-use Downtown Sacramento Herky Campus. For this project, I worked with the client to implement a cohesive touchpoint strategy for the new campus, which includes the development of a website, wayfinding strategy, and outbound marketing communication strategy.'
+      },
+      {
+        title: 'Book Design',
+        description: 'This project is a redesign of one of my favorite books with a typographical and illustrative style. The re-design for “The Glass Castle” was created with the intention of giving a visual essence of what the reader will experience in the book through the illustrations and and graphic elements.'
+      },
+      {
+        title: 'Camellia Brand and Packaging',
+        description: 'Camellia is a tea and honey concept that was developed into a brand made specifically for the local Sacramento area. This brand was designed emotionally-driven to create a memorable and lasting experience for the consumers. '
+      }
     ],
     showWork: false,
     fill: false,
-    text: '__BLURB___'
-  },
-  {
-    code: '___FOLDER_CODE___',
-    name: '___NAME___',
-    discipline: '___GRAPHIC_PHOTO_INTERIOR___',
-    tags: [
-      '__TAG__',
-    ],
-    links: {
-      website: '__WEBSITE__',
-      instagram: '__INSTAGRAM__',
-      twitter: '__TWITTER__',
-      linkedin: '__LINKEDIN__'
-    },
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
-    projecttext: [
-      {
-        title: '__TITLE__',
-        description: '__DESC__'
-      },
-    ],
-    showWork: false,
-    fill: false,
-    text: '__BLURB___'
+    text: 'Hello, I’m Kristy! I get inspired by simplistic designs that tell a story in a meaningful manner. I love that design is everything, and everything you see is design. When I’m not creating, you can usually find me out exploring new food, drinks, and music. I also enjoy the outdoors and love to hike and explore Northern California. '
   },
   {
     code: 'MartinezG',
