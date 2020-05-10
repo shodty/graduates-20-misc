@@ -787,8 +787,8 @@ studentObject: [
   },
   {
     code: 'StorozhukJ',
-    name: 'Megan Sinclair',
-    discipline: 'photo',
+    name: 'Julie Storozhuk',
+    discipline: 'interior',
     tags: [
       'Architecture',
       'Interior Design',
