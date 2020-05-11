@@ -1064,7 +1064,7 @@ studentObject: [
     discipline: 'graphic',
     tags: [
       'visual identity',
-      'enivronmental design',
+      'environmental design',
       'publication design',
       'marketing'
     ],
