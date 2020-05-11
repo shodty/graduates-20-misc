@@ -9,8 +9,8 @@ studentObject: [
     ],
     links: {
       website: 'designedbyrigo.com',
-      instagram: '@designedbyrigo',
-      linkedin: 'https://www.linkedin.com/in/rigo-arreola'
+      instagram: 'instagram.com/designedbyrigo',
+      linkedin: 'www.linkedin.com/in/rigo-arreola'
     },
     images: 3,
     ext: ['jpg', 'jpg', 'jpg'],
@@ -49,9 +49,9 @@ studentObject: [
       'layout'
     ],
     links: {
-      website: 'https://biancaayala.myportfolio.com/',
+      website: 'biancaayala.myportfolio.com/',
       instagram: 'Instagram.com/biancagraphics',
-      linkedin: 'https://www.linkedin.com/in/biancagraphics'
+      linkedin: 'www.linkedin.com/in/biancagraphics'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -100,7 +100,7 @@ studentObject: [
       email: 'wesley_bellingham@yahoo.com'
     },
     images: 6,
-    ext: ['png', 'png', 'png', 'png', 'png', 'png'],
+    ext: ['png', 'png', 'png', 'png', 'jpg', 'png'],
     projecttext: [
       {
         title: 'Museum Logos',
@@ -140,7 +140,7 @@ studentObject: [
       'collage'
     ],
     links: {
-      instagram: '@35mm_mullet'
+      instagram: 'instagram.com/35mm_mullet'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -223,7 +223,7 @@ studentObject: [
       'web design'
     ],
     links: {
-      website: 'billybag.wordpress.com',
+      website: 'billybag.wordpress.com'
     },
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -270,7 +270,7 @@ studentObject: [
       'architecture'
     ],
     links: {
-      website: 'https://kristencantor.myportfolio.com'
+      website: 'kristencantor.myportfolio.com'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -319,7 +319,7 @@ studentObject: [
       'digital art'
     ],
     links: {
-      website: 'https://www.davidcarpio.com ',
+      website: 'www.davidcarpio.com ',
       instagram: 'instagram.com/davidcarpio/'
     },
     images: 9,
@@ -471,8 +471,8 @@ studentObject: [
       'architecture'
     ],
     links: {
-      website: 'https://craintaylor.wixsite.com/mysite',
-      linkedin: 'https://www.linkedin.com/in/taylor-crain-468570178/'
+      website: 'craintaylor.wixsite.com/mysite',
+      linkedin: 'www.linkedin.com/in/taylor-crain-468570178/'
     },
     images: 9,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'png', 'png', 'png', 'png', 'jpg'],
@@ -562,14 +562,14 @@ studentObject: [
     tags: [
       'brand identity',
       'lettering',
-      'photography',
+      'photography'
     ],
     links: {
       website: 'behance.net/cristiandi8acb',
-      instagram: '@the.typeguy',
+      instagram: 'instagram.com/the.typeguy'
     },
     images: 5,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg',],
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Untitled',
@@ -647,7 +647,7 @@ studentObject: [
     ],
     links: {
       website: 'letterl.design',
-      instagram: '@l_i.r.l'
+      instagram: 'instagram.com/l_i.r.l'
     },
     images: 4,
     ext: ['jpg', 'jpg', 'jpg', 'jpg'],
@@ -731,8 +731,8 @@ studentObject: [
       'illustration'
     ],
     links: {
-      website: 'https://siennaengstrom.com ',
-      instagram: '@sienna.lux.e'
+      website: 'siennaengstrom.com ',
+      instagram: 'instagram.com/sienna.lux.e'
     },
     images: 5,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -765,12 +765,33 @@ studentObject: [
   {
     code: 'GettyC',
     name: 'Cameron Getty',
-    discipline: 'phogo',
-    tags: null,
-    links: null,
+    discipline: 'photo',
+    tags: [],
+    links: {},
     images: 5,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
-    projecttext: null,
+    projecttext: [
+      {
+        title: '',
+        description: ''
+      },
+      {
+        title: '',
+        description: ''
+      },
+      {
+        title: '',
+        description: ''
+      },
+      {
+        title: '',
+        description: ''
+      },
+      {
+        title: '',
+        description: ''
+      }
+    ],
     showWork: false,
     fill: false,
     text: null
@@ -779,10 +800,10 @@ studentObject: [
     code: 'GilesK',
     name: 'Kayla Giles',
     discipline: 'interior',
-    tags: null,
-    links: null,
-    images: 7,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    tags: [],
+    links: {},
+    images: 4,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Photo & Artwork',
@@ -810,9 +831,9 @@ studentObject: [
     name: 'Patricia Gomez',
     discipline: 'graphic',
     tags: [
-      'illustration',
+      'illustration'
     ],
-    links: null,
+    links: {},
     images: 4,
     ext: ['jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
@@ -856,7 +877,7 @@ studentObject: [
       'marketing'
     ],
     links: {
-      website: 'https://www.behance.net/rgsdesigns'
+      website: 'www.behance.net/rgsdesigns'
     },
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -898,8 +919,8 @@ studentObject: [
     code: 'HaselmannG',
     name: 'Grace Haselmann',
     discipline: 'interior',
-    tags: null,
-    links: null,
+    tags: [],
+    links: {},
     images: 10,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
@@ -958,9 +979,9 @@ studentObject: [
       'publishing'
     ],
     links: {
-      website: 'https://www.ashleysdesigns.com',
-      linkedin: 'https://www.linkedin.com/in/ashley-huck-27776a160/',
-      blog: 'https://ashleyhuck.wixsite.com/mysite/blog'
+      website: 'www.ashleysdesigns.com',
+      linkedin: 'www.linkedin.com/in/ashley-huck-27776a160/',
+      blog: 'ashleyhuck.wixsite.com/mysite/blog'
     },
     images: 10,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1022,9 +1043,9 @@ studentObject: [
       'UX/UI'
     ],
     links: {
-      website: 'https://www.behance.net/kaileehutchison',
-      instagram: '@lil.k.lee',
-      linkedin: 'https://www.linkedin.com/in/kailee-hutchison-72599719b/'
+      website: 'www.behance.net/kaileehutchison',
+      instagram: 'instagram.com/lil.k.lee',
+      linkedin: 'www.linkedin.com/in/kailee-hutchison-72599719b/'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1070,7 +1091,7 @@ studentObject: [
     ],
     links: {
       website: 'morethanhdesigns.webflow.io',
-      instagram: '@morethanhdesigns'
+      instagram: 'instagram.com/morethanhdesigns'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1117,9 +1138,9 @@ studentObject: [
       'editorial photography'
     ],
     links: {
-      website: 'https://dribbble.com/ekarchmit',
-      instagram: '@the_kernest',
-      linkedin: 'https://www.linkedin.com/in/ernest-karchmit-3b58b5123'
+      website: 'dribbble.com/ekarchmit',
+      instagram: 'instagram.com/the_kernest',
+      linkedin: 'www.linkedin.com/in/ernest-karchmit-3b58b5123'
     },
     images: 6,
     ext: ['gif', 'gif', 'gif', 'gif', 'gif', 'gif'],
@@ -1163,10 +1184,10 @@ studentObject: [
       'art installations'
     ],
     links: {
-      website: 'https://issuu.com/hlamos17/docs/spring_show_portfolio'
+      website: 'issuu.com/hlamos17/docs/spring_show_portfolio'
     },
     images: 8,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg','jpg'],
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Pavillion',
@@ -1203,7 +1224,7 @@ studentObject: [
     ],
     showWork: false,
     fill: false,
-    text: 'My name is Haley Lamos, I am an 8 year student, finally acquiring my Bachelors of Fine Arts in Interior Architecture, from Sacramento State University. Throughout my studies I have transitioned from Fashion Design to Art History and finally arriving at Interior Architecture. I believe that through my work you can see my dedication and my ability to accomplish beautiful projects. My recent work includes an introduction to energy modeling and NZE design project, a residential project the Stilt House, Sacramento Ca, and a cliff hanging Pavillion. Creativity through building has always been part of me. Growing up my Dad and I would always build something, it didn’t matter what it was, I just knew that I could always go and create something big or small. Growing up in a creative hands-on environment has allowed me to understand our built environment in a logical and creative way. I consider myself a creative self starter, always inherently thinking of things a little differently than others. (There is more than one way to accomplish something!) I always strive to do my best and to always stay busy with something big or small. In the coming years I hope to be enrolled in a Masters program for Architecture, and eventually sit for my exams. I want to help support the integration of green and net zero design into the field so we can live harmoniously and push into the future with our environment and our future children in mind. This is a sample portfolio that includes select images from my best projects completed during my Interior Architecture progam.'
+    text: 'I am an 8 year student, finally acquiring my Bachelors of Fine Arts in Interior Architecture. Throughout my studies I have transitioned from Fashion Design to Art History and finally arriving at Interior Architecture. I believe that through my work you can see my dedication and my ability to accomplish beautiful projects. Creativity through building has always been part of me. Growing up in a creative hands-on environment has allowed me to understand our built environment in a logical and creative way. I consider myself a creative self starter, always inherently thinking of things a little differently than others. In the coming years I hope to be enrolled in a Masters program for Architecture, and eventually sit for my exams. I want to help support the integration of green and net zero design into the field so we can live harmoniously and push into the future with our environment and our future children in mind.'
   },
   {
     code: 'LopezM',
@@ -1215,7 +1236,7 @@ studentObject: [
       'print'
     ],
     links: {
-      instagram: '@marco_the_creator'
+      instagram: 'instagram.com/marco_the_creator'
     },
     images: 5,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1256,7 +1277,7 @@ studentObject: [
     ],
     links: {
       website: 'aaronlouiedesign.com',
-      instagram: '@aaronlouie',
+      instagram: 'instagram.com/aaronlouie',
       linkedin: 'linkedin.com/in/aaron-louie'
     },
     images: 8,
@@ -1311,7 +1332,7 @@ studentObject: [
     ],
     links: {
       website: 'www.kristyluong.com',
-      linkedin: 'https://www.linkedin.com/in/kristyluong/'
+      linkedin: 'www.linkedin.com/in/kristyluong/'
     },
     images: 8,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1358,10 +1379,10 @@ studentObject: [
     name: 'Gabriella Martinez',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Motion',
+      'branding',
+      'motion',
       'UX/UI',
-      'Illustration'
+      'illustration'
     ],
     links: {
       website: 'gabbydesign.myportfolio.com',
@@ -1405,34 +1426,31 @@ studentObject: [
     name: 'Aniko Meszaros',
     discipline: 'photo',
     tags: [
-      'Photographer',
-      'Fine Art',
-      'Portraiture',
-      'Self-portraiture',
-      'Branding',
+      'photographer',
+      'fine art',
+      'portraiture',
+      'self-portraiture',
+      'branding'
     ],
     links: {
       website: 'anikomphotography.com',
-      instagram: '@Anikomphoto ',
-      linkedin: 'https://www.linkedin.com/in/aniko-meszaros-258b59115/'
+      instagram: 'instagram.com/Anikomphoto ',
+      linkedin: 'www.linkedin.com/in/aniko-meszaros-258b59115/'
     },
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Untitled',
-        description: 'Shapes and form as well absurdness and humor are main elements in my photography. Captured with 120 Medium format camera
-'
+        description: 'Shapes and form as well absurdness and humor are main elements in my photography. Captured with 120 Medium format camera'
       },
       {
         title: 'Untitled',
-        description: '“Old River Road” Project. Personally, one of my favorite school assignments. I used the landscape as my stage. I carefully picked my location where I brought my props to create a mood/feeling to capture how that location inspired me. This series was taken with a Large Format (4x5) camera.
-'
+        description: '“Old River Road” Project. Personally, one of my favorite school assignments. I used the landscape as my stage. I carefully picked my location where I brought my props to create a mood/feeling to capture how that location inspired me. This series was taken with a Large Format (4x5) camera.'
       },
       {
         title: 'Untitled',
-        description: '“Old River Road” Project. Personally, one of my favorite school assignments. I used the landscape as my stage. I carefully picked my location where I brought my props to create a mood/feeling to capture how that location inspired me. This series was taken with a Large Format (4x5) camera.
-'
+        description: '“Old River Road” Project. Personally, one of my favorite school assignments. I used the landscape as my stage. I carefully picked my location where I brought my props to create a mood/feeling to capture how that location inspired me. This series was taken with a Large Format (4x5) camera.'
       },
       {
         title: '"Let it"',
@@ -1440,8 +1458,7 @@ studentObject: [
       },
       {
         title: '“Balance”',
-        description: 'For my Senior Project I have moved from film photography to digital photography. I have visited my friend for the first time in a cabin. I saw that table and wood panel I have immediately imagined myself using that space in my photography. Next time when I went to visit I took a dress with me and I look around in the house to collect objects to create an image.
-'
+        description: 'For my Senior Project I have moved from film photography to digital photography. I have visited my friend for the first time in a cabin. I saw that table and wood panel I have immediately imagined myself using that space in my photography. Next time when I went to visit I took a dress with me and I look around in the house to collect objects to create an image.'
       },
       {
         title: 'Untitled',
@@ -1450,7 +1467,7 @@ studentObject: [
       {
         title: 'April of 2020',
         description: ''
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -1461,14 +1478,14 @@ studentObject: [
     name: 'Yasmeen Muhareb',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Packaging',
-      'Hand Lettering'
+      'branding',
+      'packaging',
+      'hand lettering'
     ],
     links: {
       website: 'yasmeenmu.myportfolio.com',
-      instagram: '@yasmeen.designs',
-      linkedin: 'https://www.linkedin.com/in/yasmeen-muhareb-8250b8153'
+      instagram: 'instagram.com/yasmeen.designs',
+      linkedin: 'www.linkedin.com/in/yasmeen-muhareb-8250b8153'
     },
     images: 5,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1503,14 +1520,14 @@ studentObject: [
     name: 'Jay Nguyen',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Web Design',
-      'Visuals',
-      'Packaging',
+      'branding',
+      'web design',
+      'visuals',
+      'packaging'
     ],
     links: {
       website: 'www.jdesigr.com',
-      instagram: '@jdesigr',
+      instagram: 'instagram.com/jdesigr'
     },
     images: 8,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1546,7 +1563,7 @@ studentObject: [
       {
         title: 'Camellia',
         description: ' Branding, Business System, Packaging Products'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -1562,12 +1579,19 @@ studentObject: [
       'typography',
       'layout'
     ],
+    links: {
+      website: 'nowack.design',
+      instagram: 'instagram.com/nowackdesign',
+      linkedin: 'linkedin.com/in/nowackdesign',
+      behance: 'behance.net/nowack',
+      twitter: 'twitter.com/nowackdesign'
+    },
     images: 7,
     ext: ['mp4', 'gif', 'gif', 'png', 'gif', 'gif', 'gif'],
     projecttext: [
       {
         title: 'Motion Reel No. 3',
-        description: 'A brief compilation of selected motion graphics and animations created between the time frame of mid 2017 to late 2019. Content includes university projects, personal work, and client commissions primarily residing within the Esports industry. View the full video here: https://vimeo.com/339933237.'
+        description: 'A brief compilation of selected motion graphics and animations created between the time frame of mid 2017 to late 2019. Content includes university projects, personal work, and client commissions primarily residing within the Esports industry. View the full video here: vimeo.com/339933237.'
       },
       {
         title: 'Department of Design Spring Show No. 22',
@@ -1604,17 +1628,17 @@ studentObject: [
     name: 'Brent Oliver',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Marketing',
-      'Motion',
+      'branding',
+      'marketing',
+      'motion'
     ],
     links: {
       website: 'brentoliver.io',
       instagram: 'Instagram.com/btographics',
-      twitter: '@BrentsLiver',
+      twitter: 'twitter.com/BrentsLiver'
     },
     images: 6,
-    ext: ['png', 'png', 'png', 'png', 'png', 'mp4'],
+    ext: ['png', 'jpg', 'png', 'jpg', 'jpg', 'mp4'],
     projecttext: [
       {
         title: 'Logos',
@@ -1639,7 +1663,7 @@ studentObject: [
       {
         title: 'FotA',
         description: 'Brief repeating motion graphic for the Festival of the Arts.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -1650,10 +1674,10 @@ studentObject: [
     name: 'Megan Owens',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Web Design',
+      'branding',
+      'web design',
       'UX/UI',
-      'Packaging'
+      'packaging'
     ],
     links: {
       website: 'Mowensdesigns.com',
@@ -1693,14 +1717,15 @@ studentObject: [
     name: 'Ashlyn Palmero',
     discipline: 'graphic',
     tags: [
-      'Branding & packaging',
+      'branding',
+      'packaging',
       'web design',
       'photography',
       'publication design'
     ],
     links: {
       website: 'dashthedesigner.com',
-      instagram: '@dash.the.designer ',
+      instagram: 'instagram.com/dash.the.designer '
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'mp4'],
@@ -1739,14 +1764,14 @@ studentObject: [
     name: 'Natalie Parks',
     discipline: 'graphic',
     tags: [
-      'Illustration',
-      'Typography',
-      'Branding',
-      'Packaging',
+      'illustration',
+      'typography',
+      'branding',
+      'packaging'
     ],
     links: {
       website: 'www.natalieparksdesign.com/',
-      instagram: '@ncp.graphics',
+      instagram: 'instagram.com/ncp.graphics',
       linkedin: 'www.linkedin.com/in/natalie-parks98'
     },
     images: 5,
@@ -1771,7 +1796,7 @@ studentObject: [
       {
         title: 'Untitled',
         description: 'Sacramento State’s Spring Show campaign. Campaign purpose was to advertise the Department of Design’s Annual Spring Show to a wide range of audience members to boost attendance.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -1779,34 +1804,46 @@ studentObject: [
   },
   {
     code: 'PenaJ',
-    name: 'Jess Peña',
+    name: 'Jess Pena',
     discipline: 'photo',
     tags: [
-      'Intimate portraiture',
-      'Weddings',
-      'Film Photography',
-      'Story Telling',
-      'Portraiture'
+      'intimate portraiture',
+      'weddings',
+      'film photography',
+      'story telling',
+      'portraiture'
     ],
-    links: null,
-    images: 6,
-    ext: ['jpg', 'jpg', 'jpg', 'mov', 'jpg', 'jpg'],
+    links: {},
+    images: 10,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'mp4', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Interludes of Intimacy',
-        description: 'Interludes of Intimacy is a project that is a visual experience of intimate moments in relationships with one\'s partner or one’s self.'
+        description: "Interludes of Intimacy is a project that is a visual experience of intimate moments in relationships with one's partner or one's self."
+      },
+      {
+        title: 'Interludes of Intimacy',
+        description: "Interludes of Intimacy is a project that is a visual experience of intimate moments in relationships with one's partner or one's self."
       },
       {
         title: 'Intoxicated: Behind Bars',
         description: 'Intoxicated: Behind Bars is a project consisting of a series of photographs featuring couples that find themselves in bars. In this series I take it further by challenging each couple with their comfortability in a very public vicinity and showing that through colors, gestures, and emotions; providing the viewers with the narrative.'
       },
       {
-        title: 'Untitled',
-        description: 'The series is meant to represent what we simply can’t forget, to realize what means most to us, and to be okay with what we wish would consume us again.'
+        title: 'Intoxicated: Behind Bars',
+        description: 'Intoxicated: Behind Bars is a project consisting of a series of photographs featuring couples that find themselves in bars. In this series I take it further by challenging each couple with their comfortability in a very public vicinity and showing that through colors, gestures, and emotions; providing the viewers with the narrative.'
       },
       {
         title: 'Chaney & Bryan',
         description: 'Chaney & Bryan a short video to express the wholesome relationship between two individuals.'
+      },
+      {
+        title: 'Untitled',
+        description: 'The series is meant to represent what we simply can’t forget, to realize what means most to us, and to be okay with what we wish would consume us again.'
+      },
+      {
+        title: 'Untitled',
+        description: 'The series is meant to represent what we simply can’t forget, to realize what means most to us, and to be okay with what we wish would consume us again.'
       },
       {
         title: 'Phil, Burger Patch, 2019',
@@ -1816,20 +1853,24 @@ studentObject: [
         title: 'Quarantine Walk',
         description: 'Quarantine Walk is a collection of photographs that serve as a visual experience during the COVID-19 pandemic.'
       },
+      {
+        title: 'Quarantine Walk',
+        description: 'Quarantine Walk is a collection of photographs that serve as a visual experience during the COVID-19 pandemic.'
+      }
     ],
     showWork: false,
     fill: false,
-    text: 'I have always been fascinated with people, the connections they share with others, the way hands create conversations, and how eyes can speak through black and whites in the world due to their very own colors. There are a few mantras I carry in my back pocket when taking photographs, one is the ability to give a full experience of what I experience through my photographs even if it’s just a sliver. The other is, when photographing people I want the viewers to be reminded of a real raw connection they had, have, and could have. As my progression as an artist continues, I’m continuing my path into the education system to further my passion by educating upcoming artists with their own.'
+    text: "I have always been fascinated with people, the connections they share with others, the way hands create conversations, and how eyes can speak through black and whites in the world due to their very own colors. There are a few mantras I carry in my back pocket when taking photographs, one is the ability to give a full experience of what I experience through my photographs even if it's just a sliver. The other is, when photographing people I want the viewers to be reminded of a real raw connection they had, have, and could have. As my progression as an artist continues, I’m continuing my path into the education system to further my passion by educating upcoming artists with their own."
   },
   {
     code: 'RecioA',
     name: 'Ariel-Luna Recio',
     discipline: 'photo',
     tags: [
-      'Art Photography',
+      'art photography'
     ],
     links: {
-      instagram: '@luunar_',
+      instagram: 'instagram.com/luunar_'
     },
     images: 6,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1857,7 +1898,7 @@ studentObject: [
       {
         title: 'Cracked and Bake',
         description: '#naturevmankind #diptychs '
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -1868,11 +1909,11 @@ studentObject: [
     name: 'Christian Jeanette Reynoso',
     discipline: 'photo',
     tags: [
-      'Photography',
-      'Mexican Immigrant Culture',
+      'photography',
+      'mexican immigrant culture'
     ],
     links: {
-      instagram: 'Jeanr_photo ',
+      instagram: 'Jeanr_photo '
     },
     images: 10,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1916,26 +1957,25 @@ studentObject: [
       {
         title: 'El Orgullo',
         description: 'This photograph represent how proud Mexicans feel about their culture. '
-      },
+      }
     ],
     showWork: false,
     fill: false,
-    text: 'My name is Christian Jeanette Reynoso and I am a photography senior student at California State University Sacramento.  I was born in Fontana, California, but I grew up in Jalostotitlan, Jalisco Mexico.  I have been involved in professional photography for about 10 years and during this time I found the desire to portray who I am, where I come from, and the love I have for my culture through my photographs. My senior year at Sacramento State gave me the freedom to work on a project that fulfills my needs as a visual artist, photographer and as an individual. My project is a collection of images that portray the colorful components of the Mexican immigrant culture in Sacramento. My purpose as an artist is to promote my cultural heritage to enable members of my community to feel identified and represented in the artistic world. Also, I want to share my desire for inclusion and support of my culture in the city I live.
-'
+    text: 'My name is Christian Jeanette Reynoso and I am a photography senior student at California State University Sacramento.  I was born in Fontana, California, but I grew up in Jalostotitlan, Jalisco Mexico.  I have been involved in professional photography for about 10 years and during this time I found the desire to portray who I am, where I come from, and the love I have for my culture through my photographs. My senior year at Sacramento State gave me the freedom to work on a project that fulfills my needs as a visual artist, photographer and as an individual. My project is a collection of images that portray the colorful components of the Mexican immigrant culture in Sacramento. My purpose as an artist is to promote my cultural heritage to enable members of my community to feel identified and represented in the artistic world. Also, I want to share my desire for inclusion and support of my culture in the city I live.'
   },
   {
     code: 'RomeroA',
     name: 'Arilene Romero-Aleman',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Print Design',
-      'Illustrations',
-      'UI/UX Design',
+      'branding',
+      'print',
+      'illustrations',
+      'UX/UI'
     ],
     links: {
-      instagram: '@romerodsgns',
-      linkedin: 'https://www.linkedin.com/in/arilene-romero-aleman-bb0406198/'
+      instagram: 'instagram.com/romerodsgns',
+      linkedin: 'www.linkedin.com/in/arilene-romero-aleman-bb0406198/'
     },
     images: 5,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -1959,7 +1999,7 @@ studentObject: [
       {
         title: 'Branding',
         description: 'This is branding for a fictious archery academy called Center Focus. The logo is custom made. The typography is an original design that was made to match the look of an arrow.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2049,7 +2089,7 @@ studentObject: [
       {
         title: 'Gridsmas cards',
         description: 'Greeting card set'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2060,15 +2100,15 @@ studentObject: [
     name: 'Caitlin Satterlie',
     discipline: 'interior',
     tags: [
-      'Interior Architecture',
-      'Interior Design',
-      'Space Planning',
+      'interior architecture',
+      'interior design',
+      'space planning'
     ],
     links: {
-      website: 'https://issuu.com/csatterlie/docs/csatterlie_portfolio',
+      website: 'issuu.com/csatterlie/docs/csatterlie_portfolio'
     },
     images: 9,
-    ext: ['png', 'png', 'jpg', 'jpg', 'jpg', 'png', 'png', 'png', 'png'],
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'NEXT Office Tenant Improvement Project ',
@@ -2105,7 +2145,7 @@ studentObject: [
       {
         title: 'Richard Meier Inspired House ',
         description: 'This project is inspired by the work of Richard Meier and is organized into public and private spaces in the form of a Richard Meier A-B-A system.  Using the program Rhino, a decorative dropped ceiling and second floor railing was created to add additional interest to the space.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2116,16 +2156,16 @@ studentObject: [
     name: 'Sierra Shepherd',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Illustration',
+      'branding',
+      'illustration',
       'UX/UI',
-      'Packaging',
-      'Publication',
-      'Environmental Design'
+      'packaging',
+      'publication',
+      'environmental design'
     ],
     links: {
       website: 'sierrashepherd.com',
-      instagram: '@Sierrashepherd_designs',
+      instagram: 'instagram.com/Sierrashepherd_designs',
       linkedin: 'linkedin.com/in/sierra-shepherd'
     },
     images: 5,
@@ -2161,15 +2201,15 @@ studentObject: [
     name: 'Megan Sinclair',
     discipline: 'photo',
     tags: [
-      'Analog Photography',
-      'Digital Photography',
-      'Fine Art',
-      'Self-Portraiture',
-      'Visual Art'
+      'analog',
+      'digital',
+      'fine art',
+      'self-portraiture',
+      'visual art'
     ],
     links: {
       website: 'Megansinclair.com',
-      instagram: '@_megan.sinclair',
+      instagram: 'instagram.com/_megan.sinclair',
       linkedin: ''
     },
     images: 7,
@@ -2217,7 +2257,7 @@ studentObject: [
     links: {
     },
     images: 7,
-    ext: ['png', 'png', 'png', 'png', 'png', 'png', 'png'],
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Move Brand Identity Image',
@@ -2246,7 +2286,7 @@ studentObject: [
       {
         title: 'Brand Package Design',
         description: 'This is a selection of packaging pieces that I designed in collaboration with a group of colleagues. We worked together to create a brand identity for a brewery and bakery. I contributed the illustrated Golden signature, while my colleagues contributed setting the typographic elements. Once we branded the bakery and brewery we expanded to package design communicated the tone and message of the overarching brand.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2257,10 +2297,10 @@ studentObject: [
     name: 'Julie Storozhuk',
     discipline: 'interior',
     tags: [
-      'Architecture',
-      'Interior Design',
-      'Residential Architecture',
-      'Sustainability'
+      'architecture',
+      'interior design',
+      'residential architecture',
+      'sustainability'
     ],
     links: {
       website: 'issuu.com/juliestorozhuk',
@@ -2321,12 +2361,12 @@ studentObject: [
     name: 'Jinkun (Tom) Tan',
     discipline: 'graphic',
     tags: [
-      'Product Packaging,',
+      'packaging,',
       'UX/UI',
-      'Poster Design',
+      'poster design'
     ],
     links: {
-      website: 'https://jinkuntan007.myportfolio.com/',
+      website: 'jinkuntan007.myportfolio.com/'
     },
     images: 9,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -2366,7 +2406,7 @@ studentObject: [
       {
         title: 'Career Center Retractable Banner ',
         description: 'The objectives and goals of the CSUS Career Center inspired the design of networking, connecting, and the globe because they are what this department is about and what they do to the students.  '
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2378,8 +2418,8 @@ studentObject: [
     discipline: 'graphic',
     tags: [
       'UX/UI',
-      'Typography',
-      'Visual Design',
+      'typography',
+      'visual design'
     ],
     links: {
     },
@@ -2397,7 +2437,7 @@ studentObject: [
       {
         title: 'Herky International Website',
         description: 'User interface design for a mixed-use campus.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2408,16 +2448,15 @@ studentObject: [
     name: 'Alejandra De La Torre',
     discipline: 'photo',
     tags: [
-      'Photography',
-      'Still Life',
-      'Creative Content',
-      'Colorful',
+      'still life',
+      'creative content',
+      'colorful'
     ],
     links: {
-      instagram: 'adltphotos',
+      instagram: 'adltphotos'
     },
-    images: 4,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg'],
+    images: 2,
+    ext: ['jpg', 'jpg'],
     projecttext: [
       {
         title: 'Alternate Worlds Combined',
@@ -2426,15 +2465,7 @@ studentObject: [
       {
         title: 'Alternate Worlds Combined',
         description: 'My still lifes are about creating a juxtaposition to everyday objects, the sublime relationship between these objects creates a delightful and imaginative subject that breaks their boundaries.'
-      },
-      {
-        title: 'Alternate Worlds Combined',
-        description: 'My still lifes are about creating a juxtaposition to everyday objects, the sublime relationship between these objects creates a delightful and imaginative subject that breaks their boundaries.'
-      },
-      {
-        title: 'Alternate Worlds Combined',
-        description: 'My still lifes are about creating a juxtaposition to everyday objects, the sublime relationship between these objects creates a delightful and imaginative subject that breaks their boundaries.'
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2445,19 +2476,35 @@ studentObject: [
     name: 'Nuchee Vang',
     discipline: 'interior',
     tags: [
-      'Functional Design',
-      'Minimalist Design',
-      'Sustainable Design',
+      'functional design',
+      'minimalist design',
+      'sustainable design'
     ],
     links: {
-      website: 'https://issuu.com/nucheevanggg ',
+      website: 'issuu.com/nucheevanggg '
     },
-    images: 6,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    images: 20,
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Adobe Spark Office Design',
         description: 'For this project, I designed an entrance for the Adobe Spark Office. It is a computer graphics design company and site. Users of Ado-be Spark are able to create graphics to showcase their  message, idea, concept, etc. For my design concept, I decided to show different parts of a book. Specifically, the Reception Area Wall is curved to be shaped like an open book, so the occupants feel invited into the space. Additionally, the Feature Wall shows pages stacked on top of eachother. These pages symbolize people coming to Adobe Spark to share their message, idea, concept, etc. As a result, my design concept interprets a book as Adobe Spark, where the pages show the ideas of the individuals.  '
+      },
+      {
+        title: 'Adobe Spark Office Design',
+        description: 'For this project, I designed an entrance for the Adobe Spark Office. It is a computer graphics design company and site. Users of Ado-be Spark are able to create graphics to showcase their  message, idea, concept, etc. For my design concept, I decided to show different parts of a book. Specifically, the Reception Area Wall is curved to be shaped like an open book, so the occupants feel invited into the space. Additionally, the Feature Wall shows pages stacked on top of eachother. These pages symbolize people coming to Adobe Spark to share their message, idea, concept, etc. As a result, my design concept interprets a book as Adobe Spark, where the pages show the ideas of the individuals.  '
+      },
+      {
+        title: 'Urban Cafe',
+        description: 'For this project, I designed an Urban Cafe. This cafe is 5,500 square feet. This cafe has an open plan. The plan  consists of a Dining Area, Booth Seating Area, Bar, Second Floor Lounge Area, and Patio Seating. '
+      },
+      {
+        title: 'Urban Cafe',
+        description: 'For this project, I designed an Urban Cafe. This cafe is 5,500 square feet. This cafe has an open plan. The plan  consists of a Dining Area, Booth Seating Area, Bar, Second Floor Lounge Area, and Patio Seating. '
+      },
+      {
+        title: 'Urban Cafe',
+        description: 'For this project, I designed an Urban Cafe. This cafe is 5,500 square feet. This cafe has an open plan. The plan  consists of a Dining Area, Booth Seating Area, Bar, Second Floor Lounge Area, and Patio Seating. '
       },
       {
         title: 'Urban Cafe',
@@ -2468,8 +2515,36 @@ studentObject: [
         description: 'For this project, I designed a house on Garden Highway, located in Sacramento, CA. This house is located near the Sacramento River. Due to the flooding during the rainy season, this house is built on a raised concrete structure. This house is designed for a family of five, who enjoys the outdoors view of the Sacramento River. Throughout the plan of the house, the family is led to the Grand Living Room, where they are able to enjoy the views through many large windows. The Grand Living Room also leads to the Patio, where they can relax and enjoy the beautiful outdoors of Sacramento.  '
       },
       {
+        title: 'House on Garden Highway',
+        description: 'For this project, I designed a house on Garden Highway, located in Sacramento, CA. This house is located near the Sacramento River. Due to the flooding during the rainy season, this house is built on a raised concrete structure. This house is designed for a family of five, who enjoys the outdoors view of the Sacramento River. Throughout the plan of the house, the family is led to the Grand Living Room, where they are able to enjoy the views through many large windows. The Grand Living Room also leads to the Patio, where they can relax and enjoy the beautiful outdoors of Sacramento.  '
+      },
+      {
+        title: 'House on Garden Highway',
+        description: 'For this project, I designed a house on Garden Highway, located in Sacramento, CA. This house is located near the Sacramento River. Due to the flooding during the rainy season, this house is built on a raised concrete structure. This house is designed for a family of five, who enjoys the outdoors view of the Sacramento River. Throughout the plan of the house, the family is led to the Grand Living Room, where they are able to enjoy the views through many large windows. The Grand Living Room also leads to the Patio, where they can relax and enjoy the beautiful outdoors of Sacramento.  '
+      },
+      {
+        title: 'House on Garden Highway',
+        description: 'For this project, I designed a house on Garden Highway, located in Sacramento, CA. This house is located near the Sacramento River. Due to the flooding during the rainy season, this house is built on a raised concrete structure. This house is designed for a family of five, who enjoys the outdoors view of the Sacramento River. Throughout the plan of the house, the family is led to the Grand Living Room, where they are able to enjoy the views through many large windows. The Grand Living Room also leads to the Patio, where they can relax and enjoy the beautiful outdoors of Sacramento.  '
+      },
+      {
         title: 'Flower Pavilion ',
         description: 'For this pavilion, I was inspired by the Botanical Garden, located in San Francisco, CA. The Botanical Garden consists of plants and flowers from all over the world. Additionally, this garden has many rest spots, where people can have picnics and enjoy the scenery. As a result, I decided to design a pavilion for the public, where they can rest and enjoy the outdoors. I designed petal steps that make up a flower, which people can sit and play to enjoy the scenery.  '
+      },
+      {
+        title: 'Flower Pavilion ',
+        description: 'For this pavilion, I was inspired by the Botanical Garden, located in San Francisco, CA. The Botanical Garden consists of plants and flowers from all over the world. Additionally, this garden has many rest spots, where people can have picnics and enjoy the scenery. As a result, I decided to design a pavilion for the public, where they can rest and enjoy the outdoors. I designed petal steps that make up a flower, which people can sit and play to enjoy the scenery.  '
+      },
+      {
+        title: 'Richard Meier House',
+        description: 'This house is inspired by the design principles of Richard Meier. In his designs, he creates linear homes that have an organized plan with many white open spaces. Additionally, his homes are divided by closed private spaces and open public spaces. Based on his design principles, I have designed a linear house, with closed private spaces and open public spaces through the glass walls that leads towards the outdoors. '
+      },
+      {
+        title: 'Richard Meier House',
+        description: 'This house is inspired by the design principles of Richard Meier. In his designs, he creates linear homes that have an organized plan with many white open spaces. Additionally, his homes are divided by closed private spaces and open public spaces. Based on his design principles, I have designed a linear house, with closed private spaces and open public spaces through the glass walls that leads towards the outdoors. '
+      },
+      {
+        title: 'Richard Meier House',
+        description: 'This house is inspired by the design principles of Richard Meier. In his designs, he creates linear homes that have an organized plan with many white open spaces. Additionally, his homes are divided by closed private spaces and open public spaces. Based on his design principles, I have designed a linear house, with closed private spaces and open public spaces through the glass walls that leads towards the outdoors. '
       },
       {
         title: 'Richard Meier House',
@@ -2479,6 +2554,18 @@ studentObject: [
         title: 'Communal Corner',
         description: 'The existing site is located on 1022 10th Street Sacramento, Ca. (95814) It is in the heart of Sacramento, downtown area. Specifically, this building is placed on the corner of two major cross streets (10th and K Street), which also includes a light rail station on K Street. In this area, there are many neighboring commercial buildings like restaurants, retail, and hotels. This existing building is a 1960 2 story commercial building, which consists of 16,290 SF. The floor to floor height is 18’ which makes the building 36’ high, with an addition of a 4’ parapet, which results in a 40’ building. Additionally, the parapet shows a ribbing pattern that wraps on the East and South of the building . The program for the revitalized building will be the new headquarters for AIA California, AIA Central Valley and the California Center for Architec-ture. The new space will highlight and demonstrate the AIA’s new Framework for Design Excellence. The first floor consists of mostly public spaces, which includes the Bookstore, Branding Area, Cafe, Gallery and Multipurpose Classroom. The second floor consists of workspaces, meeting rooms, and private offices. '
       },
+      {
+        title: 'Communal Corner',
+        description: 'The existing site is located on 1022 10th Street Sacramento, Ca. (95814) It is in the heart of Sacramento, downtown area. Specifically, this building is placed on the corner of two major cross streets (10th and K Street), which also includes a light rail station on K Street. In this area, there are many neighboring commercial buildings like restaurants, retail, and hotels. This existing building is a 1960 2 story commercial building, which consists of 16,290 SF. The floor to floor height is 18’ which makes the building 36’ high, with an addition of a 4’ parapet, which results in a 40’ building. Additionally, the parapet shows a ribbing pattern that wraps on the East and South of the building . The program for the revitalized building will be the new headquarters for AIA California, AIA Central Valley and the California Center for Architec-ture. The new space will highlight and demonstrate the AIA’s new Framework for Design Excellence. The first floor consists of mostly public spaces, which includes the Bookstore, Branding Area, Cafe, Gallery and Multipurpose Classroom. The second floor consists of workspaces, meeting rooms, and private offices. '
+      },
+      {
+        title: 'Communal Corner',
+        description: 'The existing site is located on 1022 10th Street Sacramento, Ca. (95814) It is in the heart of Sacramento, downtown area. Specifically, this building is placed on the corner of two major cross streets (10th and K Street), which also includes a light rail station on K Street. In this area, there are many neighboring commercial buildings like restaurants, retail, and hotels. This existing building is a 1960 2 story commercial building, which consists of 16,290 SF. The floor to floor height is 18’ which makes the building 36’ high, with an addition of a 4’ parapet, which results in a 40’ building. Additionally, the parapet shows a ribbing pattern that wraps on the East and South of the building . The program for the revitalized building will be the new headquarters for AIA California, AIA Central Valley and the California Center for Architec-ture. The new space will highlight and demonstrate the AIA’s new Framework for Design Excellence. The first floor consists of mostly public spaces, which includes the Bookstore, Branding Area, Cafe, Gallery and Multipurpose Classroom. The second floor consists of workspaces, meeting rooms, and private offices. '
+      },
+      {
+        title: 'Communal Corner',
+        description: 'The existing site is located on 1022 10th Street Sacramento, Ca. (95814) It is in the heart of Sacramento, downtown area. Specifically, this building is placed on the corner of two major cross streets (10th and K Street), which also includes a light rail station on K Street. In this area, there are many neighboring commercial buildings like restaurants, retail, and hotels. This existing building is a 1960 2 story commercial building, which consists of 16,290 SF. The floor to floor height is 18’ which makes the building 36’ high, with an addition of a 4’ parapet, which results in a 40’ building. Additionally, the parapet shows a ribbing pattern that wraps on the East and South of the building . The program for the revitalized building will be the new headquarters for AIA California, AIA Central Valley and the California Center for Architec-ture. The new space will highlight and demonstrate the AIA’s new Framework for Design Excellence. The first floor consists of mostly public spaces, which includes the Bookstore, Branding Area, Cafe, Gallery and Multipurpose Classroom. The second floor consists of workspaces, meeting rooms, and private offices. '
+      }
     ],
     showWork: false,
     fill: false,
@@ -2489,17 +2576,17 @@ studentObject: [
     name: 'Samantha Vargas',
     discipline: 'graphic',
     tags: [
-      'Branding',
-      'Publication Design',
-      'Web Design',
-      'Packaging',
+      'branding',
+      'publication design',
+      'web design',
+      'packaging'
     ],
     links: {
-      website: 'https://srvargas22.myportfolio.com/',
-      instagram: '@sam_renevargas',
+      website: 'srvargas22.myportfolio.com/',
+      instagram: 'instagram.com/sam_renevargas'
     },
     images: 7,
-    ext: ['png', 'png', 'png', 'png', 'png', 'png', 'png'],
+    ext: ['png', 'png', 'jpg', 'png', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
         title: 'Atrium',
@@ -2528,7 +2615,7 @@ studentObject: [
       {
         title: 'Musician Magazine Spread',
         description: 'Single spread for an interview article of The White Stripes. Self-directed and produced photography featured within the spread. '
-      },
+      }
     ],
     showWork: false,
     fill: false,
@@ -2539,8 +2626,8 @@ studentObject: [
     name: 'Rebecca Velasquez',
     discipline: 'interior',
     tags: [
-      'Commercial',
-      'Photography'
+      'commercial',
+      'photography'
     ],
     links: {
       website: 'rebeccavelasquez.myportfolio.com',
