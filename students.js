@@ -1970,40 +1970,62 @@ studentObject: [
     tags: [
       'branding',
       'print',
-      'illustrations',
-      'UX/UI'
+      'illustration',
+      'typography',
+      'environmental design'
     ],
     links: {
       instagram: 'instagram.com/romerodsgns',
-      linkedin: 'www.linkedin.com/in/arilene-romero-aleman-bb0406198/'
+      linkedin: 'www.linkedin.com/in/arilene-romero-aleman-bb0406198/',
+      website: 'www.romeroaleman.design'
     },
     images: 5,
-    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
+    ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
     projecttext: [
       {
-        title: 'Spring Show',
-        description: 'The Spring Show is an annual event held by the Department of Design where students can showcase their design work. The purpose of this project was to come up with a theme that equally represents the department’s three programs: Graphic Design, Photography, and Architecture.'
+        title: 'Camellia',
+        description: 'Camellia takes pride in being a tea shop that cares for the environment and being respectful towards the bees they care for. Tea and honey are an important part of Camellia that makes them who they are. Each product is carefully infused with either tea or honey as their main or complementary ingredient.'
+      },
+      {
+        title: 'The Stranger',
+        description: 'This project is a redesign of the book “The Stranger” by Albert Camus. The use of a system allowed for a cohesive and structured book. The inside follows a grid system that is used throughout. The spine also follows this system, as does the title page. The take on the illustration portrays the main character (in yellow) as the outsider, or the stranger. Society has other plans, while he decides to stray away from them.'
+      },
+      {
+        title: 'Glaze',
+        description: 'Typography is an interest of mine, thanks to this project. It was a fun project that allowed me to create a custom design. I tried to come up with something different using circular forms to make each letter. The corners were the trickiest part of this project.'
+      },
+      {
+        title: 'ARA',
+        description: 'This is my personal branding. I designed this with the intention of showing the type of person I am. At first, I thought it was because the pride I felt towards my family name, but one of my professors said it looks almost like a shield. And yes, in a way it does. So now I see it as being protective of my family name. I also, designed this based on Batman: The Animated Series. I’m a huge Batman fan, specifically from TAS and the Arkham video games.'
+      },
+      {
+        title: 'Center Focus',
+        description: 'Center Focus is a school that specializes in teaching archery at four levels: beginner, intermediate, advanced, and competitive. This project brands Center Focus using angles and edges as its main element that is mirrored on the logo. The colors were chosen to show the level of sophistication and prestige the school has acquired throughout its years.'
       },
       {
         title: 'Gig Posters',
-        description: 'Throughout this series of posters, I experimented with different design styles. These two posters stood out to me, because they’re a style I was more comfortable working with. However, I would like to try out different styles that could help me become a better graphic designer'
-      },
-      {
-        title: 'Typography',
-        description: 'Typography is an interest of mine, thanks to this project. It was a fun project that allowed me to create a custom design. I tried to come up with something different using circular forms to make each letter. The corners were the trickiest part of this project.'
+        description: 'Throughout this series of posters, I experimented with different design styles. These two posters stood out to me, because they’re a style I was more comfortable working with. However, I would like to try out different styles that could help me become a better graphic designer.'
       },
       {
         title: 'Illustrations',
         description: 'Illustration has recently become an interest of mine due to a branding project that heavily uses illustrations. These illustrations, in particular, are part of that project and were used for candle packaging.'
       },
       {
-        title: 'Branding',
-        description: 'This is branding for a fictious archery academy called Center Focus. The logo is custom made. The typography is an original design that was made to match the look of an arrow.'
+        title: 'Sac State Wayfinding',
+        description: 'Sac State is known as the Tree Campus housing over 3,500 trees and 400 species. To pay homage to its title, the wayfinding strategy uses five well-known species as districts. Each district will be a different color which will correspond to the chosen tree. Sac State has a color palette with names matching each tree. The messaging strategy solves a hierarchy and consistency problem the current wayfinding faces. The new messaging is consistent, and clear; to the point. '
+      },
+      {
+        title: 'Spring Show',
+        description: 'The Spring Show is an annual event held by the Department of Design where students can showcase their design work. The purpose of this project was to come up with a theme that equally represents the department’s three programs: Graphic Design, Photography, and Architecture. Paper was used to create the images used in this system.'
+      },
+      {
+        title: 'Spring Show',
+        description: 'The Spring Show is an annual event held by the Department of Design where students can showcase their design work. The purpose of this project was to come up with a theme that equally represents the department’s three programs: Graphic Design, Photography, and Architecture. Paper was used to create the images used in this system.'
       }
     ],
     showWork: false,
     fill: false,
-    text: 'Hello! My name is Arilene. I like to listen to music and play video games on my free time. Video games have always been an interest of mine that helped me make the decision to pursue Graphic Design. However, I’m still developing my design skills and since then my interests have changed. I’m currently interested in packaging design, print design, branding, and UI/UX design. I’m open to many styles, as I’ve tried many of them. Yes, I’m searching for my own unique style, but being versatile is a quality that would benefit me as a graphic designer.'
+    text: 'Hello! My name is Arilene. I like to listen to music and play video games on my free time. Video games have always been an interest of mine that helped me make the decision to pursue Graphic Design. However, I’m still developing my design skills and since then my interests have changed. I’m currently interested in packaging design, print design, branding, and environmental design. I’m open to many styles, as I’ve tried many of them. Yes, I’m searching for my own unique style, but being versatile is a quality that would benefit me as a graphic designer.'
   },
   {
     code: 'SandersR',
@@ -2255,6 +2277,7 @@ studentObject: [
     tags: [
     ],
     links: {
+      website: 'https://lissasmith.design'
     },
     images: 7,
     ext: ['jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg', 'jpg'],
@@ -2290,7 +2313,7 @@ studentObject: [
     ],
     showWork: false,
     fill: false,
-    text: ''
+    text: 'Lissa is a graphic designer. She’s also the CFO of Delta Electric Co. Inc. and makes the best Salty Dog you’ll ever have in your entire life. Prior to all this, she was the owner of a dance studio, an office manager, an award-winning filmmaker, a marketing assistant, and a Bob Fosse scholarship-winning dancer. She’s the Swiss Army knife of creatives, is another way of putting it. Lissa works and lives in Sacramento, California with her husband, four daughters, and a black lab named Emo. She holds a B.S. in Graphic Design from Sacramento State University.'
   },
   {
     code: 'StorozhukJ',
@@ -2300,10 +2323,13 @@ studentObject: [
       'architecture',
       'interior design',
       'residential architecture',
-      'sustainability'
+      'hospitality',
+      'home away from home',
+      'sustainability',
+      'creative solutions'
     ],
     links: {
-      website: 'issuu.com/juliestorozhuk',
+      website: 'https://issuu.com/juliestorozhuk/docs/architectural_portfolio',
       instagram: '',
       linkedin: ''
     },
@@ -2354,7 +2380,7 @@ studentObject: [
     ],
     showWork: false,
     fill: false,
-    text: 'My name is Julie Storozhuk and I am an architectural designer. I studied Interior Architecture at Sacramento State University and graduated with a Bachelors Spring 2020. Alongside school, I have been working at and engineering and design firm creating custom homes for people all around Sacramento. I am passionate about finding the best solution to any design problem while working directly with clients. I love traveling and dream to immerse myself in hospitality and travel accommodation design all around the globe. I love the aesthetic of simplicity and believe that comfort lies in a perfect combination of minimalistic yet rich choice in materials. Lastly, sustainable design has made a huge impact on me and I dream to be a part of creating architectural solutions not only for the wealthy but also for those living in third-world countries'
+    text: 'My name is Julie Storozhuk and I am an architectural designer. I studied Interior Architecture at Sacramento State University and graduated with a Bachelors Spring 2020. Alongside school, I have been working at and engineering and design firm creating custom homes for people all around Sacramento. I am passionate about finding the best solution to any design problem while working directly with clients. I love traveling and dream to immerse myself in hospitality and travel accommodation design all around the globe. I love the aesthetic of simplicity and believe that comfort lies in a perfect combination of minimalistic yet rich choice in materials. Lastly, sustainable design has made a huge impact on me and I dream to be a part of creating architectural solutions not only for the wealthy but also for those living in third-world countries.'
   },
   {
     code: 'TanT',
