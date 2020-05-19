@@ -1483,7 +1483,7 @@ studentObject: [
       'hand lettering'
     ],
     links: {
-      website: 'yasmeenmu.myportfolio.com',
+      website: 'https://yasmeenm.myportfolio.com',
       instagram: 'instagram.com/yasmeen.designs',
       linkedin: 'www.linkedin.com/in/yasmeen-muhareb-8250b8153'
     },
